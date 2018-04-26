@@ -3,7 +3,7 @@ package tictaetoe;
 import java.util.Scanner;
 
 // PROJEKT Z "Języki i paradygmaty programowania"
-// Emil SZYMAŃSKI, Dagmara WILMANOWICZ
+// ES, DW
 // 2016/2017 semestr 3
 // ID1/III
 
